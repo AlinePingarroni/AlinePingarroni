@@ -27,12 +27,14 @@ My research explores the dynamics of **social-ecological systems**, analyzing th
 I am actively engaged with the **Ecosystem Services Partnership (ESP)** and the **Youth in Ecosystem Services Science (YESS)** community. Additionally, I am preparing a proposal to establish a **Geoinformatics Unit** at my institution to enhance postgraduate education and faculty development.
 
 ---
+## Projects
 
-## Current Projects
-- Teaching **Eco-informatics** classes, including a series of introductory lectures.
-- Preparing a project proposal aligned with UNAM's regulations to strengthen agroforestry production systems.
-- Investigating vegetation conservation in river areas impacted by agricultural and livestock activities.
-
+- **Benefits of Nature in Transformed Tropical Forests: Linking Ecosystem Services Maintenance, Biodiversity Conservation, and Management Strategies** Funded by PAPIIT. **PI**: Dr. Aline Pingarroni. 
+- **Cocina Colaboratorio** Funded by PAPIIT and PRONACE-CONACYT. **PI**: Dr. Patricia Balvanera Levy. 
+- **Effects of rainforest deforestation on biodiversity in tropical agroforestry landscapes (BIOPAIS)**."Funded by SEP-Conacyt **PI**: Dr. Miguel Martínez Ramos.
+- **FOREFRONT** Funded by INREF-FOREFRONT WUR. **PI**: Dr. Thomas W. Kuyper.
+- **R-Ladies Morelia** Center for Mathematical Sciences, UNAM-Campus Morelia. **PI**: Dr. Nelly Selem Mojica.
+- **Guacamayas Calentanas A.C.** **PI**: C. José Isabel Texta Hernández. 
 ---
 
 ## Get in Touch
