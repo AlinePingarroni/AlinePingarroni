@@ -22,7 +22,7 @@ My research explores the dynamics of **social-ecological systems**, analyzing th
 - **Nature-based Solutions**: Promoting sustainable strategies to address environmental and social challenges.
 - **Nature’s Values in Decision-making**: Highlighting the importance of ecosystem values for informed policy and management decisions.
 
-###Teaching Activities
+### Teaching Activities
 I have taught a variety of undergraduate and postgraduate courses, including **Field Ecology**, **Introduction to R Programming**, **Ecosystem Services**, **Applied Statistics in Ecology**, **Theoretical Ecology**, and **Informatics in Ecology**. I have also conducted workshops on topics such as **ggplot for data visualization**, **basic QGIS use for thematic cartography**, and **Mapping with R**. These courses and workshops have been delivered across different institutions, including FES-Iztacala, ENES-Morelia, and the Posgraduate Program in Biological Sciences at UNAM.
 
 
