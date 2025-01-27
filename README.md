@@ -38,9 +38,7 @@ I am actively engaged with the **Ecosystem Services Partnership (ESP)** and the 
 ---
 
 ## Get in Touch
-- 📧 **Email**: [Your Email Here]
-- 🌐 **Website**: [Your Website Here]
-- 📚 **ResearchGate**: [Your ResearchGate Profile Here]
-- 🐦 **Twitter**: [Your Twitter Handle Here]
+- 📧 **Email**: [a_pingarroni@iztacala.unam.mx]
+- 📚 **ResearchGate**: [https://www.researchgate.net/profile/Aline-Pingarroni?ev=hdr_xprf]
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me if you are interested in collaboration or have any questions!
